@@ -1,0 +1,6 @@
+pahile display grid karo
+rows and cols define karo
+grid template area specify karo for alllocation
+uske badd id selector use karke div ko area pe place karo
+
+grid autoRows is basically used in facebook like application where we are not aware of rows i.e infinite rows
